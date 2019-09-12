@@ -1,0 +1,23 @@
+.filter-block {
+	height: 52px;
+	display: flex;
+	align-items: center;
+}
+
+.filter__label {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.filter__input {
+	border: 1.5px solid #D1D1D1;
+	box-sizing: border-box;
+	border-radius: 3px;
+	width: 123px;
+	height: 26px;
+	margin-left: 8px;
+	outline: none;
+	padding-left: 5px;
+}
